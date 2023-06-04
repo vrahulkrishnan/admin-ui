@@ -1,0 +1,15 @@
+# Don't check auto-generated stuff into git
+.vscode
+coverage
+build
+node_modules
+stats.json
+.icons/
+.images/
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+.awcache
+.env
